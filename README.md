@@ -1,7 +1,7 @@
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-## Hi there 👋, I am Hossain Ahmad
-### Web Developer
 
+# Hi there 👋, I am Hossain Ahmad
+## Web Developer
 
 I am a front-end Developer who is passionate about making errors-free websites with 100% satisfaction. I have a passion for learning and sharing my knowledge with publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. Over the past years, I created 80s websites for my client,
 
