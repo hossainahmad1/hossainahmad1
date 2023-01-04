@@ -10,7 +10,7 @@ I am a front-end Developer who is passionate about making errors-free websites w
 Skills: REACT / MongoDB/Express.js/Node.js/ JAVASCRIPT  / CSS/ HTML
 
 - 🔭 I’m currently working on Web Developer 
-- 🌱 I’m currently learning Typescript,Redux.jsNext.js 
+- 🌱 I’m currently learning Typescript,Redux.js Next.js 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Web Development 
 - 💬 Ask me about Web Development 
